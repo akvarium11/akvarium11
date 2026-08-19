@@ -15,6 +15,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,lua,nodejs,cloudflare,css,html,git&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: c++ • lua 
+- **languages**: c++ • lua • luau
 - **frontend**: css • html
 - **backend**: nodejs
