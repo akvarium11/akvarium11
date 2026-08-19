@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/80d0ot.png" alt="luv C++" width="100%">
+  <img src="https://files.catbox.moe/80d0ot.png" alt="luv C++" width="50%">
 </p>
 
 ### about
